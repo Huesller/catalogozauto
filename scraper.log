@@ -1,0 +1,707 @@
+[2026-06-01T12:57:47.953Z] [INFO] Z Automotiva scraper started {"output":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado","catalogos":5}
+[2026-06-01T12:57:48.753Z] [INFO] processing catalog {"id":"1436","nome":"MARCA RETOV"}
+[2026-06-01T12:57:49.239Z] [INFO] scraping page {"catalogoId":"1436","pagina":1,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=1"}
+[2026-06-01T12:57:57.295Z] [INFO] pagination detected {"totalPages":65}
+[2026-06-01T12:57:57.302Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:57:57.312Z] [INFO] page products {"pagina":1,"count":10}
+[2026-06-01T12:57:57.313Z] [INFO] scraping page {"catalogoId":"1436","pagina":2,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=2"}
+[2026-06-01T12:58:02.523Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:02.530Z] [INFO] page products {"pagina":2,"count":10}
+[2026-06-01T12:58:02.531Z] [INFO] scraping page {"catalogoId":"1436","pagina":3,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=3"}
+[2026-06-01T12:58:08.270Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:08.278Z] [INFO] page products {"pagina":3,"count":10}
+[2026-06-01T12:58:08.278Z] [INFO] scraping page {"catalogoId":"1436","pagina":4,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=4"}
+[2026-06-01T12:58:13.479Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:13.484Z] [INFO] page products {"pagina":4,"count":10}
+[2026-06-01T12:58:13.485Z] [INFO] scraping page {"catalogoId":"1436","pagina":5,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=5"}
+[2026-06-01T12:58:19.005Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:19.011Z] [INFO] page products {"pagina":5,"count":10}
+[2026-06-01T12:58:19.012Z] [INFO] scraping page {"catalogoId":"1436","pagina":6,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=6"}
+[2026-06-01T12:58:24.202Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:24.211Z] [INFO] page products {"pagina":6,"count":10}
+[2026-06-01T12:58:24.212Z] [INFO] scraping page {"catalogoId":"1436","pagina":7,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=7"}
+[2026-06-01T12:58:29.418Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:29.423Z] [INFO] page products {"pagina":7,"count":10}
+[2026-06-01T12:58:29.424Z] [INFO] scraping page {"catalogoId":"1436","pagina":8,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=8"}
+[2026-06-01T12:58:34.648Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:34.653Z] [INFO] page products {"pagina":8,"count":10}
+[2026-06-01T12:58:34.654Z] [INFO] scraping page {"catalogoId":"1436","pagina":9,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=9"}
+[2026-06-01T12:58:39.862Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:39.871Z] [INFO] page products {"pagina":9,"count":10}
+[2026-06-01T12:58:39.872Z] [INFO] scraping page {"catalogoId":"1436","pagina":10,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=10"}
+[2026-06-01T12:58:45.069Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:45.078Z] [INFO] page products {"pagina":10,"count":10}
+[2026-06-01T12:58:45.114Z] [INFO] scraping page {"catalogoId":"1436","pagina":11,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=11"}
+[2026-06-01T12:58:50.834Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:50.841Z] [INFO] page products {"pagina":11,"count":10}
+[2026-06-01T12:58:50.842Z] [INFO] scraping page {"catalogoId":"1436","pagina":12,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=12"}
+[2026-06-01T12:58:56.597Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:58:56.613Z] [INFO] page products {"pagina":12,"count":10}
+[2026-06-01T12:58:56.614Z] [INFO] scraping page {"catalogoId":"1436","pagina":13,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=13"}
+[2026-06-01T12:59:01.975Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:01.982Z] [INFO] page products {"pagina":13,"count":10}
+[2026-06-01T12:59:01.983Z] [INFO] scraping page {"catalogoId":"1436","pagina":14,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=14"}
+[2026-06-01T12:59:07.182Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:07.189Z] [INFO] page products {"pagina":14,"count":10}
+[2026-06-01T12:59:07.190Z] [INFO] scraping page {"catalogoId":"1436","pagina":15,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=15"}
+[2026-06-01T12:59:12.530Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:12.535Z] [INFO] page products {"pagina":15,"count":10}
+[2026-06-01T12:59:12.536Z] [INFO] scraping page {"catalogoId":"1436","pagina":16,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=16"}
+[2026-06-01T12:59:17.861Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:17.868Z] [INFO] page products {"pagina":16,"count":10}
+[2026-06-01T12:59:17.869Z] [INFO] scraping page {"catalogoId":"1436","pagina":17,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=17"}
+[2026-06-01T12:59:23.080Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:23.087Z] [INFO] page products {"pagina":17,"count":10}
+[2026-06-01T12:59:23.088Z] [INFO] scraping page {"catalogoId":"1436","pagina":18,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=18"}
+[2026-06-01T12:59:28.278Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:28.284Z] [INFO] page products {"pagina":18,"count":10}
+[2026-06-01T12:59:28.285Z] [INFO] scraping page {"catalogoId":"1436","pagina":19,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=19"}
+[2026-06-01T12:59:33.525Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:33.532Z] [INFO] page products {"pagina":19,"count":10}
+[2026-06-01T12:59:33.533Z] [INFO] scraping page {"catalogoId":"1436","pagina":20,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=20"}
+[2026-06-01T12:59:38.711Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:38.717Z] [INFO] page products {"pagina":20,"count":10}
+[2026-06-01T12:59:38.718Z] [INFO] scraping page {"catalogoId":"1436","pagina":21,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=21"}
+[2026-06-01T12:59:44.228Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:44.236Z] [INFO] page products {"pagina":21,"count":10}
+[2026-06-01T12:59:44.237Z] [INFO] scraping page {"catalogoId":"1436","pagina":22,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=22"}
+[2026-06-01T12:59:49.801Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:49.809Z] [INFO] page products {"pagina":22,"count":10}
+[2026-06-01T12:59:49.810Z] [INFO] scraping page {"catalogoId":"1436","pagina":23,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=23"}
+[2026-06-01T12:59:54.962Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T12:59:54.969Z] [INFO] page products {"pagina":23,"count":10}
+[2026-06-01T12:59:54.969Z] [INFO] scraping page {"catalogoId":"1436","pagina":24,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=24"}
+[2026-06-01T13:00:00.191Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:00.198Z] [INFO] page products {"pagina":24,"count":10}
+[2026-06-01T13:00:00.199Z] [INFO] scraping page {"catalogoId":"1436","pagina":25,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=25"}
+[2026-06-01T13:00:05.418Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:05.426Z] [INFO] page products {"pagina":25,"count":10}
+[2026-06-01T13:00:05.428Z] [INFO] scraping page {"catalogoId":"1436","pagina":26,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=26"}
+[2026-06-01T13:00:10.661Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:10.671Z] [INFO] page products {"pagina":26,"count":10}
+[2026-06-01T13:00:10.672Z] [INFO] scraping page {"catalogoId":"1436","pagina":27,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=27"}
+[2026-06-01T13:00:15.858Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:15.863Z] [INFO] page products {"pagina":27,"count":10}
+[2026-06-01T13:00:15.864Z] [INFO] scraping page {"catalogoId":"1436","pagina":28,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=28"}
+[2026-06-01T13:00:21.076Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:21.084Z] [INFO] page products {"pagina":28,"count":10}
+[2026-06-01T13:00:21.084Z] [INFO] scraping page {"catalogoId":"1436","pagina":29,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=29"}
+[2026-06-01T13:00:26.288Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:26.295Z] [INFO] page products {"pagina":29,"count":10}
+[2026-06-01T13:00:26.296Z] [INFO] scraping page {"catalogoId":"1436","pagina":30,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=30"}
+[2026-06-01T13:00:31.459Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:31.467Z] [INFO] page products {"pagina":30,"count":10}
+[2026-06-01T13:00:31.468Z] [INFO] scraping page {"catalogoId":"1436","pagina":31,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=31"}
+[2026-06-01T13:00:37.078Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:37.084Z] [INFO] page products {"pagina":31,"count":10}
+[2026-06-01T13:00:37.085Z] [INFO] scraping page {"catalogoId":"1436","pagina":32,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=32"}
+[2026-06-01T13:00:42.666Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:42.675Z] [INFO] page products {"pagina":32,"count":10}
+[2026-06-01T13:00:42.676Z] [INFO] scraping page {"catalogoId":"1436","pagina":33,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=33"}
+[2026-06-01T13:00:48.460Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:48.467Z] [INFO] page products {"pagina":33,"count":10}
+[2026-06-01T13:00:48.468Z] [INFO] scraping page {"catalogoId":"1436","pagina":34,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=34"}
+[2026-06-01T13:00:54.012Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:54.020Z] [INFO] page products {"pagina":34,"count":10}
+[2026-06-01T13:00:54.032Z] [INFO] scraping page {"catalogoId":"1436","pagina":35,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=35"}
+[2026-06-01T13:00:59.631Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:00:59.640Z] [INFO] page products {"pagina":35,"count":10}
+[2026-06-01T13:00:59.641Z] [INFO] scraping page {"catalogoId":"1436","pagina":36,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=36"}
+[2026-06-01T13:01:05.203Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:05.215Z] [INFO] page products {"pagina":36,"count":10}
+[2026-06-01T13:01:05.216Z] [INFO] scraping page {"catalogoId":"1436","pagina":37,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=37"}
+[2026-06-01T13:01:10.775Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:10.781Z] [INFO] page products {"pagina":37,"count":10}
+[2026-06-01T13:01:10.782Z] [INFO] scraping page {"catalogoId":"1436","pagina":38,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=38"}
+[2026-06-01T13:01:16.354Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:16.360Z] [INFO] page products {"pagina":38,"count":10}
+[2026-06-01T13:01:16.361Z] [INFO] scraping page {"catalogoId":"1436","pagina":39,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=39"}
+[2026-06-01T13:01:21.571Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:21.577Z] [INFO] page products {"pagina":39,"count":10}
+[2026-06-01T13:01:21.578Z] [INFO] scraping page {"catalogoId":"1436","pagina":40,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=40"}
+[2026-06-01T13:01:26.745Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:26.751Z] [INFO] page products {"pagina":40,"count":10}
+[2026-06-01T13:01:26.752Z] [INFO] scraping page {"catalogoId":"1436","pagina":41,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=41"}
+[2026-06-01T13:01:31.957Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:31.964Z] [INFO] page products {"pagina":41,"count":10}
+[2026-06-01T13:01:31.965Z] [INFO] scraping page {"catalogoId":"1436","pagina":42,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=42"}
+[2026-06-01T13:01:37.144Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:37.150Z] [INFO] page products {"pagina":42,"count":10}
+[2026-06-01T13:01:37.151Z] [INFO] scraping page {"catalogoId":"1436","pagina":43,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=43"}
+[2026-06-01T13:01:42.326Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:42.334Z] [INFO] page products {"pagina":43,"count":10}
+[2026-06-01T13:01:42.335Z] [INFO] scraping page {"catalogoId":"1436","pagina":44,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=44"}
+[2026-06-01T13:01:47.644Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:47.651Z] [INFO] page products {"pagina":44,"count":10}
+[2026-06-01T13:01:47.652Z] [INFO] scraping page {"catalogoId":"1436","pagina":45,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=45"}
+[2026-06-01T13:01:53.655Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:53.665Z] [INFO] page products {"pagina":45,"count":10}
+[2026-06-01T13:01:53.666Z] [INFO] scraping page {"catalogoId":"1436","pagina":46,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=46"}
+[2026-06-01T13:01:59.408Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:01:59.414Z] [INFO] page products {"pagina":46,"count":10}
+[2026-06-01T13:01:59.415Z] [INFO] scraping page {"catalogoId":"1436","pagina":47,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=47"}
+[2026-06-01T13:02:04.681Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:04.689Z] [INFO] page products {"pagina":47,"count":10}
+[2026-06-01T13:02:04.689Z] [INFO] scraping page {"catalogoId":"1436","pagina":48,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=48"}
+[2026-06-01T13:02:10.236Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:10.254Z] [INFO] page products {"pagina":48,"count":10}
+[2026-06-01T13:02:10.255Z] [INFO] scraping page {"catalogoId":"1436","pagina":49,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=49"}
+[2026-06-01T13:02:15.501Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:15.509Z] [INFO] page products {"pagina":49,"count":10}
+[2026-06-01T13:02:15.510Z] [INFO] scraping page {"catalogoId":"1436","pagina":50,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=50"}
+[2026-06-01T13:02:20.679Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:20.685Z] [INFO] page products {"pagina":50,"count":10}
+[2026-06-01T13:02:20.685Z] [INFO] scraping page {"catalogoId":"1436","pagina":51,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=51"}
+[2026-06-01T13:02:25.902Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:25.941Z] [INFO] page products {"pagina":51,"count":10}
+[2026-06-01T13:02:25.942Z] [INFO] scraping page {"catalogoId":"1436","pagina":52,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=52"}
+[2026-06-01T13:02:31.696Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:31.703Z] [INFO] page products {"pagina":52,"count":10}
+[2026-06-01T13:02:31.704Z] [INFO] scraping page {"catalogoId":"1436","pagina":53,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=53"}
+[2026-06-01T13:02:37.118Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:37.126Z] [INFO] page products {"pagina":53,"count":10}
+[2026-06-01T13:02:37.127Z] [INFO] scraping page {"catalogoId":"1436","pagina":54,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=54"}
+[2026-06-01T13:02:42.453Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:42.460Z] [INFO] page products {"pagina":54,"count":10}
+[2026-06-01T13:02:42.461Z] [INFO] scraping page {"catalogoId":"1436","pagina":55,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=55"}
+[2026-06-01T13:02:47.677Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:47.683Z] [INFO] page products {"pagina":55,"count":10}
+[2026-06-01T13:02:47.684Z] [INFO] scraping page {"catalogoId":"1436","pagina":56,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=56"}
+[2026-06-01T13:02:53.262Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:53.268Z] [INFO] page products {"pagina":56,"count":10}
+[2026-06-01T13:02:53.269Z] [INFO] scraping page {"catalogoId":"1436","pagina":57,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=57"}
+[2026-06-01T13:02:58.464Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:02:58.479Z] [INFO] page products {"pagina":57,"count":10}
+[2026-06-01T13:02:58.480Z] [INFO] scraping page {"catalogoId":"1436","pagina":58,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=58"}
+[2026-06-01T13:03:04.065Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:04.079Z] [INFO] page products {"pagina":58,"count":10}
+[2026-06-01T13:03:04.080Z] [INFO] scraping page {"catalogoId":"1436","pagina":59,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=59"}
+[2026-06-01T13:03:09.326Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:09.334Z] [INFO] page products {"pagina":59,"count":10}
+[2026-06-01T13:03:09.334Z] [INFO] scraping page {"catalogoId":"1436","pagina":60,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=60"}
+[2026-06-01T13:03:14.628Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:14.636Z] [INFO] page products {"pagina":60,"count":10}
+[2026-06-01T13:03:14.637Z] [INFO] scraping page {"catalogoId":"1436","pagina":61,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=61"}
+[2026-06-01T13:03:20.067Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:20.076Z] [INFO] page products {"pagina":61,"count":10}
+[2026-06-01T13:03:20.078Z] [INFO] scraping page {"catalogoId":"1436","pagina":62,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=62"}
+[2026-06-01T13:03:25.721Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:25.727Z] [INFO] page products {"pagina":62,"count":10}
+[2026-06-01T13:03:25.728Z] [INFO] scraping page {"catalogoId":"1436","pagina":63,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=63"}
+[2026-06-01T13:03:30.922Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:30.931Z] [INFO] page products {"pagina":63,"count":10}
+[2026-06-01T13:03:30.932Z] [INFO] scraping page {"catalogoId":"1436","pagina":64,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=64"}
+[2026-06-01T13:03:36.088Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:36.097Z] [INFO] page products {"pagina":64,"count":10}
+[2026-06-01T13:03:36.110Z] [INFO] scraping page {"catalogoId":"1436","pagina":65,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1436?p=true&page=65"}
+[2026-06-01T13:03:41.717Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:41.723Z] [INFO] page products {"pagina":65,"count":9}
+[2026-06-01T13:03:41.724Z] [INFO] reached last page {"pagina":65,"totalPages":65}
+[2026-06-01T13:03:41.725Z] [INFO] scrape complete {"catalogoId":"1436","unique":649,"pages":65}
+[2026-06-01T13:03:41.727Z] [INFO] products extracted {"id":"1436","count":649}
+[2026-06-01T13:03:41.771Z] [INFO] catalog saved {"file":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado\\1436.html"}
+[2026-06-01T13:03:41.786Z] [INFO] processing catalog {"id":"1438","nome":"MARCA RIDA"}
+[2026-06-01T13:03:41.883Z] [INFO] scraping page {"catalogoId":"1438","pagina":1,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=1"}
+[2026-06-01T13:03:47.484Z] [INFO] pagination detected {"totalPages":41}
+[2026-06-01T13:03:47.492Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:47.500Z] [INFO] page products {"pagina":1,"count":10}
+[2026-06-01T13:03:47.501Z] [INFO] scraping page {"catalogoId":"1438","pagina":2,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=2"}
+[2026-06-01T13:03:52.707Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:52.714Z] [INFO] page products {"pagina":2,"count":10}
+[2026-06-01T13:03:52.714Z] [INFO] scraping page {"catalogoId":"1438","pagina":3,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=3"}
+[2026-06-01T13:03:58.161Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:03:58.175Z] [INFO] page products {"pagina":3,"count":10}
+[2026-06-01T13:03:58.176Z] [INFO] scraping page {"catalogoId":"1438","pagina":4,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=4"}
+[2026-06-01T13:04:03.395Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:03.401Z] [INFO] page products {"pagina":4,"count":10}
+[2026-06-01T13:04:03.402Z] [INFO] scraping page {"catalogoId":"1438","pagina":5,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=5"}
+[2026-06-01T13:04:08.582Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:08.589Z] [INFO] page products {"pagina":5,"count":10}
+[2026-06-01T13:04:08.590Z] [INFO] scraping page {"catalogoId":"1438","pagina":6,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=6"}
+[2026-06-01T13:04:13.788Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:13.794Z] [INFO] page products {"pagina":6,"count":10}
+[2026-06-01T13:04:13.795Z] [INFO] scraping page {"catalogoId":"1438","pagina":7,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=7"}
+[2026-06-01T13:04:18.964Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:18.972Z] [INFO] page products {"pagina":7,"count":10}
+[2026-06-01T13:04:18.973Z] [INFO] scraping page {"catalogoId":"1438","pagina":8,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=8"}
+[2026-06-01T13:04:24.585Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:24.593Z] [INFO] page products {"pagina":8,"count":10}
+[2026-06-01T13:04:24.594Z] [INFO] scraping page {"catalogoId":"1438","pagina":9,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=9"}
+[2026-06-01T13:04:30.327Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:30.335Z] [INFO] page products {"pagina":9,"count":10}
+[2026-06-01T13:04:30.336Z] [INFO] scraping page {"catalogoId":"1438","pagina":10,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=10"}
+[2026-06-01T13:04:35.917Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:35.926Z] [INFO] page products {"pagina":10,"count":10}
+[2026-06-01T13:04:35.940Z] [INFO] scraping page {"catalogoId":"1438","pagina":11,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=11"}
+[2026-06-01T13:04:41.520Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:41.525Z] [INFO] page products {"pagina":11,"count":10}
+[2026-06-01T13:04:41.526Z] [INFO] scraping page {"catalogoId":"1438","pagina":12,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=12"}
+[2026-06-01T13:04:47.078Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:47.084Z] [INFO] page products {"pagina":12,"count":10}
+[2026-06-01T13:04:47.085Z] [INFO] scraping page {"catalogoId":"1438","pagina":13,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=13"}
+[2026-06-01T13:04:53.431Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:53.438Z] [INFO] page products {"pagina":13,"count":10}
+[2026-06-01T13:04:53.439Z] [INFO] scraping page {"catalogoId":"1438","pagina":14,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=14"}
+[2026-06-01T13:04:59.519Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:04:59.525Z] [INFO] page products {"pagina":14,"count":10}
+[2026-06-01T13:04:59.525Z] [INFO] scraping page {"catalogoId":"1438","pagina":15,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=15"}
+[2026-06-01T13:05:04.717Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:04.724Z] [INFO] page products {"pagina":15,"count":10}
+[2026-06-01T13:05:04.725Z] [INFO] scraping page {"catalogoId":"1438","pagina":16,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=16"}
+[2026-06-01T13:05:09.941Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:09.947Z] [INFO] page products {"pagina":16,"count":10}
+[2026-06-01T13:05:09.948Z] [INFO] scraping page {"catalogoId":"1438","pagina":17,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=17"}
+[2026-06-01T13:05:15.221Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:15.230Z] [INFO] page products {"pagina":17,"count":10}
+[2026-06-01T13:05:15.231Z] [INFO] scraping page {"catalogoId":"1438","pagina":18,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=18"}
+[2026-06-01T13:05:20.497Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:20.506Z] [INFO] page products {"pagina":18,"count":10}
+[2026-06-01T13:05:20.507Z] [INFO] scraping page {"catalogoId":"1438","pagina":19,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=19"}
+[2026-06-01T13:05:26.150Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:26.160Z] [INFO] page products {"pagina":19,"count":10}
+[2026-06-01T13:05:26.161Z] [INFO] scraping page {"catalogoId":"1438","pagina":20,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=20"}
+[2026-06-01T13:05:31.383Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:31.390Z] [INFO] page products {"pagina":20,"count":10}
+[2026-06-01T13:05:31.390Z] [INFO] scraping page {"catalogoId":"1438","pagina":21,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=21"}
+[2026-06-01T13:05:36.589Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:36.595Z] [INFO] page products {"pagina":21,"count":10}
+[2026-06-01T13:05:36.595Z] [INFO] scraping page {"catalogoId":"1438","pagina":22,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=22"}
+[2026-06-01T13:05:42.268Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:42.280Z] [INFO] page products {"pagina":22,"count":10}
+[2026-06-01T13:05:42.281Z] [INFO] scraping page {"catalogoId":"1438","pagina":23,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=23"}
+[2026-06-01T13:05:47.481Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:47.486Z] [INFO] page products {"pagina":23,"count":10}
+[2026-06-01T13:05:47.487Z] [INFO] scraping page {"catalogoId":"1438","pagina":24,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=24"}
+[2026-06-01T13:05:52.667Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:52.673Z] [INFO] page products {"pagina":24,"count":10}
+[2026-06-01T13:05:52.674Z] [INFO] scraping page {"catalogoId":"1438","pagina":25,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=25"}
+[2026-06-01T13:05:58.246Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:05:58.252Z] [INFO] page products {"pagina":25,"count":10}
+[2026-06-01T13:05:58.252Z] [INFO] scraping page {"catalogoId":"1438","pagina":26,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=26"}
+[2026-06-01T13:06:03.845Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:03.853Z] [INFO] page products {"pagina":26,"count":10}
+[2026-06-01T13:06:03.854Z] [INFO] scraping page {"catalogoId":"1438","pagina":27,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=27"}
+[2026-06-01T13:06:09.391Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:09.397Z] [INFO] page products {"pagina":27,"count":10}
+[2026-06-01T13:06:09.397Z] [INFO] scraping page {"catalogoId":"1438","pagina":28,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=28"}
+[2026-06-01T13:06:14.565Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:14.571Z] [INFO] page products {"pagina":28,"count":10}
+[2026-06-01T13:06:14.572Z] [INFO] scraping page {"catalogoId":"1438","pagina":29,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=29"}
+[2026-06-01T13:06:19.811Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:19.819Z] [INFO] page products {"pagina":29,"count":10}
+[2026-06-01T13:06:19.820Z] [INFO] scraping page {"catalogoId":"1438","pagina":30,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=30"}
+[2026-06-01T13:06:25.058Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:25.065Z] [INFO] page products {"pagina":30,"count":10}
+[2026-06-01T13:06:25.066Z] [INFO] scraping page {"catalogoId":"1438","pagina":31,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=31"}
+[2026-06-01T13:06:30.361Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:30.367Z] [INFO] page products {"pagina":31,"count":10}
+[2026-06-01T13:06:30.367Z] [INFO] scraping page {"catalogoId":"1438","pagina":32,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=32"}
+[2026-06-01T13:06:35.581Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:35.589Z] [INFO] page products {"pagina":32,"count":10}
+[2026-06-01T13:06:35.590Z] [INFO] scraping page {"catalogoId":"1438","pagina":33,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=33"}
+[2026-06-01T13:06:40.875Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:40.884Z] [INFO] page products {"pagina":33,"count":10}
+[2026-06-01T13:06:40.886Z] [INFO] scraping page {"catalogoId":"1438","pagina":34,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=34"}
+[2026-06-01T13:06:46.337Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:46.346Z] [INFO] page products {"pagina":34,"count":10}
+[2026-06-01T13:06:46.357Z] [INFO] scraping page {"catalogoId":"1438","pagina":35,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=35"}
+[2026-06-01T13:06:51.561Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:51.568Z] [INFO] page products {"pagina":35,"count":10}
+[2026-06-01T13:06:51.569Z] [INFO] scraping page {"catalogoId":"1438","pagina":36,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=36"}
+[2026-06-01T13:06:56.845Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:06:56.861Z] [INFO] page products {"pagina":36,"count":10}
+[2026-06-01T13:06:56.862Z] [INFO] scraping page {"catalogoId":"1438","pagina":37,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=37"}
+[2026-06-01T13:07:02.163Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:02.171Z] [INFO] page products {"pagina":37,"count":10}
+[2026-06-01T13:07:02.174Z] [INFO] scraping page {"catalogoId":"1438","pagina":38,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=38"}
+[2026-06-01T13:07:07.356Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:07.363Z] [INFO] page products {"pagina":38,"count":10}
+[2026-06-01T13:07:07.364Z] [INFO] scraping page {"catalogoId":"1438","pagina":39,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=39"}
+[2026-06-01T13:07:12.532Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:12.537Z] [INFO] page products {"pagina":39,"count":10}
+[2026-06-01T13:07:12.538Z] [INFO] scraping page {"catalogoId":"1438","pagina":40,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=40"}
+[2026-06-01T13:07:17.746Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:17.755Z] [INFO] page products {"pagina":40,"count":10}
+[2026-06-01T13:07:17.756Z] [INFO] scraping page {"catalogoId":"1438","pagina":41,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1438?p=true&page=41"}
+[2026-06-01T13:07:22.616Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:22.621Z] [INFO] page products {"pagina":41,"count":6}
+[2026-06-01T13:07:22.622Z] [INFO] reached last page {"pagina":41,"totalPages":41}
+[2026-06-01T13:07:22.628Z] [INFO] scrape complete {"catalogoId":"1438","unique":406,"pages":41}
+[2026-06-01T13:07:22.632Z] [INFO] products extracted {"id":"1438","count":406}
+[2026-06-01T13:07:22.637Z] [INFO] catalog saved {"file":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado\\1438.html"}
+[2026-06-01T13:07:22.701Z] [INFO] processing catalog {"id":"1494","nome":"MARCA TYC"}
+[2026-06-01T13:07:22.815Z] [INFO] scraping page {"catalogoId":"1494","pagina":1,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=1"}
+[2026-06-01T13:07:28.294Z] [INFO] pagination detected {"totalPages":38}
+[2026-06-01T13:07:28.299Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:28.305Z] [INFO] page products {"pagina":1,"count":10}
+[2026-06-01T13:07:28.306Z] [INFO] scraping page {"catalogoId":"1494","pagina":2,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=2"}
+[2026-06-01T13:07:33.539Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:33.544Z] [INFO] page products {"pagina":2,"count":10}
+[2026-06-01T13:07:33.544Z] [INFO] scraping page {"catalogoId":"1494","pagina":3,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=3"}
+[2026-06-01T13:07:38.809Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:38.814Z] [INFO] page products {"pagina":3,"count":10}
+[2026-06-01T13:07:38.815Z] [INFO] scraping page {"catalogoId":"1494","pagina":4,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=4"}
+[2026-06-01T13:07:44.048Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:44.054Z] [INFO] page products {"pagina":4,"count":10}
+[2026-06-01T13:07:44.055Z] [INFO] scraping page {"catalogoId":"1494","pagina":5,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=5"}
+[2026-06-01T13:07:49.269Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:49.284Z] [INFO] page products {"pagina":5,"count":10}
+[2026-06-01T13:07:49.286Z] [INFO] scraping page {"catalogoId":"1494","pagina":6,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=6"}
+[2026-06-01T13:07:54.643Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:54.649Z] [INFO] page products {"pagina":6,"count":10}
+[2026-06-01T13:07:54.650Z] [INFO] scraping page {"catalogoId":"1494","pagina":7,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=7"}
+[2026-06-01T13:07:59.849Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:07:59.856Z] [INFO] page products {"pagina":7,"count":10}
+[2026-06-01T13:07:59.857Z] [INFO] scraping page {"catalogoId":"1494","pagina":8,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=8"}
+[2026-06-01T13:08:05.194Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:05.204Z] [INFO] page products {"pagina":8,"count":10}
+[2026-06-01T13:08:05.205Z] [INFO] scraping page {"catalogoId":"1494","pagina":9,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=9"}
+[2026-06-01T13:08:11.100Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:11.111Z] [INFO] page products {"pagina":9,"count":10}
+[2026-06-01T13:08:11.112Z] [INFO] scraping page {"catalogoId":"1494","pagina":10,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=10"}
+[2026-06-01T13:08:16.268Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:16.289Z] [INFO] page products {"pagina":10,"count":10}
+[2026-06-01T13:08:16.290Z] [INFO] scraping page {"catalogoId":"1494","pagina":11,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=11"}
+[2026-06-01T13:08:21.477Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:21.488Z] [INFO] page products {"pagina":11,"count":10}
+[2026-06-01T13:08:21.489Z] [INFO] scraping page {"catalogoId":"1494","pagina":12,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=12"}
+[2026-06-01T13:08:26.707Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:26.719Z] [INFO] page products {"pagina":12,"count":10}
+[2026-06-01T13:08:26.720Z] [INFO] scraping page {"catalogoId":"1494","pagina":13,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=13"}
+[2026-06-01T13:08:32.271Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:32.278Z] [INFO] page products {"pagina":13,"count":10}
+[2026-06-01T13:08:32.279Z] [INFO] scraping page {"catalogoId":"1494","pagina":14,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=14"}
+[2026-06-01T13:08:37.471Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:37.478Z] [INFO] page products {"pagina":14,"count":10}
+[2026-06-01T13:08:37.479Z] [INFO] scraping page {"catalogoId":"1494","pagina":15,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=15"}
+[2026-06-01T13:08:43.036Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:43.045Z] [INFO] page products {"pagina":15,"count":10}
+[2026-06-01T13:08:43.047Z] [INFO] scraping page {"catalogoId":"1494","pagina":16,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=16"}
+[2026-06-01T13:08:48.439Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:48.478Z] [INFO] page products {"pagina":16,"count":10}
+[2026-06-01T13:08:48.480Z] [INFO] scraping page {"catalogoId":"1494","pagina":17,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=17"}
+[2026-06-01T13:08:54.115Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:54.121Z] [INFO] page products {"pagina":17,"count":10}
+[2026-06-01T13:08:54.122Z] [INFO] scraping page {"catalogoId":"1494","pagina":18,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=18"}
+[2026-06-01T13:08:59.524Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:08:59.531Z] [INFO] page products {"pagina":18,"count":10}
+[2026-06-01T13:08:59.532Z] [INFO] scraping page {"catalogoId":"1494","pagina":19,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=19"}
+[2026-06-01T13:09:04.855Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:04.861Z] [INFO] page products {"pagina":19,"count":10}
+[2026-06-01T13:09:04.862Z] [INFO] scraping page {"catalogoId":"1494","pagina":20,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=20"}
+[2026-06-01T13:09:10.084Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:10.090Z] [INFO] page products {"pagina":20,"count":10}
+[2026-06-01T13:09:10.091Z] [INFO] scraping page {"catalogoId":"1494","pagina":21,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=21"}
+[2026-06-01T13:09:15.454Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:15.474Z] [INFO] page products {"pagina":21,"count":10}
+[2026-06-01T13:09:15.477Z] [INFO] scraping page {"catalogoId":"1494","pagina":22,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=22"}
+[2026-06-01T13:09:20.697Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:20.703Z] [INFO] page products {"pagina":22,"count":10}
+[2026-06-01T13:09:20.704Z] [INFO] scraping page {"catalogoId":"1494","pagina":23,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=23"}
+[2026-06-01T13:09:25.982Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:25.992Z] [INFO] page products {"pagina":23,"count":10}
+[2026-06-01T13:09:25.993Z] [INFO] scraping page {"catalogoId":"1494","pagina":24,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=24"}
+[2026-06-01T13:09:31.197Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:31.203Z] [INFO] page products {"pagina":24,"count":10}
+[2026-06-01T13:09:31.204Z] [INFO] scraping page {"catalogoId":"1494","pagina":25,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=25"}
+[2026-06-01T13:09:36.457Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:36.464Z] [INFO] page products {"pagina":25,"count":10}
+[2026-06-01T13:09:36.464Z] [INFO] scraping page {"catalogoId":"1494","pagina":26,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=26"}
+[2026-06-01T13:09:41.708Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:41.714Z] [INFO] page products {"pagina":26,"count":10}
+[2026-06-01T13:09:41.715Z] [INFO] scraping page {"catalogoId":"1494","pagina":27,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=27"}
+[2026-06-01T13:09:47.000Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:47.014Z] [INFO] page products {"pagina":27,"count":10}
+[2026-06-01T13:09:47.018Z] [INFO] scraping page {"catalogoId":"1494","pagina":28,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=28"}
+[2026-06-01T13:09:54.210Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:09:54.236Z] [INFO] page products {"pagina":28,"count":10}
+[2026-06-01T13:09:54.237Z] [INFO] scraping page {"catalogoId":"1494","pagina":29,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=29"}
+[2026-06-01T13:10:00.669Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:00.675Z] [INFO] page products {"pagina":29,"count":10}
+[2026-06-01T13:10:00.676Z] [INFO] scraping page {"catalogoId":"1494","pagina":30,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=30"}
+[2026-06-01T13:10:05.896Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:05.907Z] [INFO] page products {"pagina":30,"count":10}
+[2026-06-01T13:10:05.908Z] [INFO] scraping page {"catalogoId":"1494","pagina":31,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=31"}
+[2026-06-01T13:10:11.279Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:11.287Z] [INFO] page products {"pagina":31,"count":10}
+[2026-06-01T13:10:11.289Z] [INFO] scraping page {"catalogoId":"1494","pagina":32,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=32"}
+[2026-06-01T13:10:16.753Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:16.759Z] [INFO] page products {"pagina":32,"count":10}
+[2026-06-01T13:10:16.760Z] [INFO] scraping page {"catalogoId":"1494","pagina":33,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=33"}
+[2026-06-01T13:10:22.134Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:22.141Z] [INFO] page products {"pagina":33,"count":10}
+[2026-06-01T13:10:22.141Z] [INFO] scraping page {"catalogoId":"1494","pagina":34,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=34"}
+[2026-06-01T13:10:27.418Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:27.424Z] [INFO] page products {"pagina":34,"count":10}
+[2026-06-01T13:10:27.425Z] [INFO] scraping page {"catalogoId":"1494","pagina":35,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=35"}
+[2026-06-01T13:10:32.638Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:32.652Z] [INFO] page products {"pagina":35,"count":10}
+[2026-06-01T13:10:32.653Z] [INFO] scraping page {"catalogoId":"1494","pagina":36,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=36"}
+[2026-06-01T13:10:37.892Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:37.902Z] [INFO] page products {"pagina":36,"count":10}
+[2026-06-01T13:10:37.903Z] [INFO] scraping page {"catalogoId":"1494","pagina":37,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=37"}
+[2026-06-01T13:10:43.144Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:43.150Z] [INFO] page products {"pagina":37,"count":10}
+[2026-06-01T13:10:43.151Z] [INFO] scraping page {"catalogoId":"1494","pagina":38,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1494?p=true&page=38"}
+[2026-06-01T13:10:48.364Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:48.369Z] [INFO] page products {"pagina":38,"count":8}
+[2026-06-01T13:10:48.370Z] [INFO] reached last page {"pagina":38,"totalPages":38}
+[2026-06-01T13:10:48.371Z] [INFO] scrape complete {"catalogoId":"1494","unique":378,"pages":38}
+[2026-06-01T13:10:48.373Z] [INFO] products extracted {"id":"1494","count":378}
+[2026-06-01T13:10:48.378Z] [INFO] catalog saved {"file":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado\\1494.html"}
+[2026-06-01T13:10:48.386Z] [INFO] processing catalog {"id":"1493","nome":"MARCA RETROVISORES TYC"}
+[2026-06-01T13:10:48.471Z] [INFO] scraping page {"catalogoId":"1493","pagina":1,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=1"}
+[2026-06-01T13:10:53.956Z] [INFO] pagination detected {"totalPages":23}
+[2026-06-01T13:10:53.989Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:53.999Z] [INFO] page products {"pagina":1,"count":10}
+[2026-06-01T13:10:54.000Z] [INFO] scraping page {"catalogoId":"1493","pagina":2,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=2"}
+[2026-06-01T13:10:59.142Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:10:59.148Z] [INFO] page products {"pagina":2,"count":10}
+[2026-06-01T13:10:59.149Z] [INFO] scraping page {"catalogoId":"1493","pagina":3,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=3"}
+[2026-06-01T13:11:04.303Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:04.316Z] [INFO] page products {"pagina":3,"count":10}
+[2026-06-01T13:11:04.318Z] [INFO] scraping page {"catalogoId":"1493","pagina":4,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=4"}
+[2026-06-01T13:11:09.480Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:09.499Z] [INFO] page products {"pagina":4,"count":10}
+[2026-06-01T13:11:09.510Z] [INFO] scraping page {"catalogoId":"1493","pagina":5,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=5"}
+[2026-06-01T13:11:14.717Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:14.725Z] [INFO] page products {"pagina":5,"count":10}
+[2026-06-01T13:11:14.726Z] [INFO] scraping page {"catalogoId":"1493","pagina":6,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=6"}
+[2026-06-01T13:11:20.475Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:20.487Z] [INFO] page products {"pagina":6,"count":10}
+[2026-06-01T13:11:20.489Z] [INFO] scraping page {"catalogoId":"1493","pagina":7,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=7"}
+[2026-06-01T13:11:26.226Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:26.235Z] [INFO] page products {"pagina":7,"count":10}
+[2026-06-01T13:11:26.235Z] [INFO] scraping page {"catalogoId":"1493","pagina":8,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=8"}
+[2026-06-01T13:11:31.885Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:31.893Z] [INFO] page products {"pagina":8,"count":10}
+[2026-06-01T13:11:31.894Z] [INFO] scraping page {"catalogoId":"1493","pagina":9,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=9"}
+[2026-06-01T13:11:37.683Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:37.689Z] [INFO] page products {"pagina":9,"count":10}
+[2026-06-01T13:11:37.689Z] [INFO] scraping page {"catalogoId":"1493","pagina":10,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=10"}
+[2026-06-01T13:11:43.224Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:43.233Z] [INFO] page products {"pagina":10,"count":10}
+[2026-06-01T13:11:43.234Z] [INFO] scraping page {"catalogoId":"1493","pagina":11,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=11"}
+[2026-06-01T13:11:48.828Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:48.836Z] [INFO] page products {"pagina":11,"count":10}
+[2026-06-01T13:11:48.837Z] [INFO] scraping page {"catalogoId":"1493","pagina":12,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=12"}
+[2026-06-01T13:11:54.422Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:54.431Z] [INFO] page products {"pagina":12,"count":10}
+[2026-06-01T13:11:54.433Z] [INFO] scraping page {"catalogoId":"1493","pagina":13,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=13"}
+[2026-06-01T13:11:59.986Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:11:59.992Z] [INFO] page products {"pagina":13,"count":10}
+[2026-06-01T13:11:59.993Z] [INFO] scraping page {"catalogoId":"1493","pagina":14,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=14"}
+[2026-06-01T13:12:05.553Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:05.561Z] [INFO] page products {"pagina":14,"count":10}
+[2026-06-01T13:12:05.562Z] [INFO] scraping page {"catalogoId":"1493","pagina":15,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=15"}
+[2026-06-01T13:12:11.150Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:11.161Z] [INFO] page products {"pagina":15,"count":10}
+[2026-06-01T13:12:11.162Z] [INFO] scraping page {"catalogoId":"1493","pagina":16,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=16"}
+[2026-06-01T13:12:16.780Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:16.786Z] [INFO] page products {"pagina":16,"count":10}
+[2026-06-01T13:12:16.786Z] [INFO] scraping page {"catalogoId":"1493","pagina":17,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=17"}
+[2026-06-01T13:12:22.322Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:22.327Z] [INFO] page products {"pagina":17,"count":10}
+[2026-06-01T13:12:22.328Z] [INFO] scraping page {"catalogoId":"1493","pagina":18,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=18"}
+[2026-06-01T13:12:27.861Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:27.872Z] [INFO] page products {"pagina":18,"count":10}
+[2026-06-01T13:12:27.872Z] [INFO] scraping page {"catalogoId":"1493","pagina":19,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=19"}
+[2026-06-01T13:12:33.551Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:33.560Z] [INFO] page products {"pagina":19,"count":10}
+[2026-06-01T13:12:33.561Z] [INFO] scraping page {"catalogoId":"1493","pagina":20,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=20"}
+[2026-06-01T13:12:39.187Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:39.193Z] [INFO] page products {"pagina":20,"count":10}
+[2026-06-01T13:12:39.194Z] [INFO] scraping page {"catalogoId":"1493","pagina":21,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=21"}
+[2026-06-01T13:12:44.770Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:44.776Z] [INFO] page products {"pagina":21,"count":10}
+[2026-06-01T13:12:44.777Z] [INFO] scraping page {"catalogoId":"1493","pagina":22,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=22"}
+[2026-06-01T13:12:50.425Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:50.433Z] [INFO] page products {"pagina":22,"count":10}
+[2026-06-01T13:12:50.434Z] [INFO] scraping page {"catalogoId":"1493","pagina":23,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1493?p=true&page=23"}
+[2026-06-01T13:12:54.939Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:12:54.944Z] [INFO] page products {"pagina":23,"count":2}
+[2026-06-01T13:12:54.945Z] [INFO] reached last page {"pagina":23,"totalPages":23}
+[2026-06-01T13:12:54.947Z] [INFO] scrape complete {"catalogoId":"1493","unique":222,"pages":23}
+[2026-06-01T13:12:54.949Z] [INFO] products extracted {"id":"1493","count":222}
+[2026-06-01T13:12:54.955Z] [INFO] catalog saved {"file":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado\\1493.html"}
+[2026-06-01T13:12:54.963Z] [INFO] processing catalog {"id":"1437","nome":"MARCA Z AUTO"}
+[2026-06-01T13:12:55.052Z] [INFO] scraping page {"catalogoId":"1437","pagina":1,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=1"}
+[2026-06-01T13:13:00.529Z] [INFO] pagination detected {"totalPages":58}
+[2026-06-01T13:13:00.536Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:00.548Z] [INFO] page products {"pagina":1,"count":10}
+[2026-06-01T13:13:00.551Z] [INFO] scraping page {"catalogoId":"1437","pagina":2,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=2"}
+[2026-06-01T13:13:05.923Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:05.931Z] [INFO] page products {"pagina":2,"count":10}
+[2026-06-01T13:13:05.932Z] [INFO] scraping page {"catalogoId":"1437","pagina":3,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=3"}
+[2026-06-01T13:13:11.305Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:11.311Z] [INFO] page products {"pagina":3,"count":10}
+[2026-06-01T13:13:11.312Z] [INFO] scraping page {"catalogoId":"1437","pagina":4,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=4"}
+[2026-06-01T13:13:16.600Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:16.610Z] [INFO] page products {"pagina":4,"count":10}
+[2026-06-01T13:13:16.613Z] [INFO] scraping page {"catalogoId":"1437","pagina":5,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=5"}
+[2026-06-01T13:13:22.407Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:22.414Z] [INFO] page products {"pagina":5,"count":10}
+[2026-06-01T13:13:22.415Z] [INFO] scraping page {"catalogoId":"1437","pagina":6,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=6"}
+[2026-06-01T13:13:27.743Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:27.749Z] [INFO] page products {"pagina":6,"count":10}
+[2026-06-01T13:13:27.750Z] [INFO] scraping page {"catalogoId":"1437","pagina":7,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=7"}
+[2026-06-01T13:13:33.080Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:33.090Z] [INFO] page products {"pagina":7,"count":10}
+[2026-06-01T13:13:33.091Z] [INFO] scraping page {"catalogoId":"1437","pagina":8,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=8"}
+[2026-06-01T13:13:38.423Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:38.434Z] [INFO] page products {"pagina":8,"count":10}
+[2026-06-01T13:13:38.436Z] [INFO] scraping page {"catalogoId":"1437","pagina":9,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=9"}
+[2026-06-01T13:13:44.101Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:44.110Z] [INFO] page products {"pagina":9,"count":10}
+[2026-06-01T13:13:44.112Z] [INFO] scraping page {"catalogoId":"1437","pagina":10,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=10"}
+[2026-06-01T13:13:49.656Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:49.669Z] [INFO] page products {"pagina":10,"count":10}
+[2026-06-01T13:13:49.669Z] [INFO] scraping page {"catalogoId":"1437","pagina":11,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=11"}
+[2026-06-01T13:13:54.827Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:13:54.836Z] [INFO] page products {"pagina":11,"count":10}
+[2026-06-01T13:13:54.836Z] [INFO] scraping page {"catalogoId":"1437","pagina":12,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=12"}
+[2026-06-01T13:14:00.047Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:00.055Z] [INFO] page products {"pagina":12,"count":10}
+[2026-06-01T13:14:00.056Z] [INFO] scraping page {"catalogoId":"1437","pagina":13,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=13"}
+[2026-06-01T13:14:05.860Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:05.877Z] [INFO] page products {"pagina":13,"count":10}
+[2026-06-01T13:14:05.921Z] [INFO] scraping page {"catalogoId":"1437","pagina":14,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=14"}
+[2026-06-01T13:14:11.222Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:11.230Z] [INFO] page products {"pagina":14,"count":10}
+[2026-06-01T13:14:11.231Z] [INFO] scraping page {"catalogoId":"1437","pagina":15,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=15"}
+[2026-06-01T13:14:16.614Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:16.622Z] [INFO] page products {"pagina":15,"count":10}
+[2026-06-01T13:14:16.623Z] [INFO] scraping page {"catalogoId":"1437","pagina":16,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=16"}
+[2026-06-01T13:14:21.924Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:21.933Z] [INFO] page products {"pagina":16,"count":10}
+[2026-06-01T13:14:21.934Z] [INFO] scraping page {"catalogoId":"1437","pagina":17,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=17"}
+[2026-06-01T13:14:27.180Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:27.187Z] [INFO] page products {"pagina":17,"count":10}
+[2026-06-01T13:14:27.188Z] [INFO] scraping page {"catalogoId":"1437","pagina":18,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=18"}
+[2026-06-01T13:14:32.439Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:32.445Z] [INFO] page products {"pagina":18,"count":10}
+[2026-06-01T13:14:32.445Z] [INFO] scraping page {"catalogoId":"1437","pagina":19,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=19"}
+[2026-06-01T13:14:37.779Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:37.788Z] [INFO] page products {"pagina":19,"count":10}
+[2026-06-01T13:14:37.790Z] [INFO] scraping page {"catalogoId":"1437","pagina":20,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=20"}
+[2026-06-01T13:14:43.028Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:43.034Z] [INFO] page products {"pagina":20,"count":10}
+[2026-06-01T13:14:43.035Z] [INFO] scraping page {"catalogoId":"1437","pagina":21,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=21"}
+[2026-06-01T13:14:48.261Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:48.272Z] [INFO] page products {"pagina":21,"count":10}
+[2026-06-01T13:14:48.274Z] [INFO] scraping page {"catalogoId":"1437","pagina":22,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=22"}
+[2026-06-01T13:14:54.866Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:14:54.876Z] [INFO] page products {"pagina":22,"count":10}
+[2026-06-01T13:14:54.877Z] [INFO] scraping page {"catalogoId":"1437","pagina":23,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=23"}
+[2026-06-01T13:15:01.427Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:01.435Z] [INFO] page products {"pagina":23,"count":10}
+[2026-06-01T13:15:01.435Z] [INFO] scraping page {"catalogoId":"1437","pagina":24,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=24"}
+[2026-06-01T13:15:06.693Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:06.699Z] [INFO] page products {"pagina":24,"count":10}
+[2026-06-01T13:15:06.700Z] [INFO] scraping page {"catalogoId":"1437","pagina":25,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=25"}
+[2026-06-01T13:15:12.271Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:12.281Z] [INFO] page products {"pagina":25,"count":10}
+[2026-06-01T13:15:12.282Z] [INFO] scraping page {"catalogoId":"1437","pagina":26,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=26"}
+[2026-06-01T13:15:17.505Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:17.513Z] [INFO] page products {"pagina":26,"count":10}
+[2026-06-01T13:15:17.514Z] [INFO] scraping page {"catalogoId":"1437","pagina":27,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=27"}
+[2026-06-01T13:15:22.830Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:22.836Z] [INFO] page products {"pagina":27,"count":10}
+[2026-06-01T13:15:22.837Z] [INFO] scraping page {"catalogoId":"1437","pagina":28,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=28"}
+[2026-06-01T13:15:28.112Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:28.118Z] [INFO] page products {"pagina":28,"count":10}
+[2026-06-01T13:15:28.119Z] [INFO] scraping page {"catalogoId":"1437","pagina":29,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=29"}
+[2026-06-01T13:15:33.391Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:33.398Z] [INFO] page products {"pagina":29,"count":10}
+[2026-06-01T13:15:33.399Z] [INFO] scraping page {"catalogoId":"1437","pagina":30,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=30"}
+[2026-06-01T13:15:38.738Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:38.746Z] [INFO] page products {"pagina":30,"count":10}
+[2026-06-01T13:15:38.747Z] [INFO] scraping page {"catalogoId":"1437","pagina":31,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=31"}
+[2026-06-01T13:15:43.898Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:43.904Z] [INFO] page products {"pagina":31,"count":10}
+[2026-06-01T13:15:43.905Z] [INFO] scraping page {"catalogoId":"1437","pagina":32,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=32"}
+[2026-06-01T13:15:49.229Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:49.244Z] [INFO] page products {"pagina":32,"count":10}
+[2026-06-01T13:15:49.245Z] [INFO] scraping page {"catalogoId":"1437","pagina":33,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=33"}
+[2026-06-01T13:15:54.472Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:15:54.478Z] [INFO] page products {"pagina":33,"count":10}
+[2026-06-01T13:15:54.479Z] [INFO] scraping page {"catalogoId":"1437","pagina":34,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=34"}
+[2026-06-01T13:16:00.210Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:00.216Z] [INFO] page products {"pagina":34,"count":10}
+[2026-06-01T13:16:00.216Z] [INFO] scraping page {"catalogoId":"1437","pagina":35,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=35"}
+[2026-06-01T13:16:05.403Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:05.410Z] [INFO] page products {"pagina":35,"count":10}
+[2026-06-01T13:16:05.411Z] [INFO] scraping page {"catalogoId":"1437","pagina":36,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=36"}
+[2026-06-01T13:16:10.995Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:11.055Z] [INFO] page products {"pagina":36,"count":10}
+[2026-06-01T13:16:11.062Z] [INFO] scraping page {"catalogoId":"1437","pagina":37,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=37"}
+[2026-06-01T13:16:16.243Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:16.249Z] [INFO] page products {"pagina":37,"count":10}
+[2026-06-01T13:16:16.250Z] [INFO] scraping page {"catalogoId":"1437","pagina":38,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=38"}
+[2026-06-01T13:16:21.462Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:21.469Z] [INFO] page products {"pagina":38,"count":10}
+[2026-06-01T13:16:21.470Z] [INFO] scraping page {"catalogoId":"1437","pagina":39,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=39"}
+[2026-06-01T13:16:26.657Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:26.663Z] [INFO] page products {"pagina":39,"count":10}
+[2026-06-01T13:16:26.664Z] [INFO] scraping page {"catalogoId":"1437","pagina":40,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=40"}
+[2026-06-01T13:16:31.881Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:31.888Z] [INFO] page products {"pagina":40,"count":10}
+[2026-06-01T13:16:31.889Z] [INFO] scraping page {"catalogoId":"1437","pagina":41,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=41"}
+[2026-06-01T13:16:37.403Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:37.410Z] [INFO] page products {"pagina":41,"count":10}
+[2026-06-01T13:16:37.411Z] [INFO] scraping page {"catalogoId":"1437","pagina":42,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=42"}
+[2026-06-01T13:16:43.002Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:43.009Z] [INFO] page products {"pagina":42,"count":10}
+[2026-06-01T13:16:43.010Z] [INFO] scraping page {"catalogoId":"1437","pagina":43,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=43"}
+[2026-06-01T13:16:48.211Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:48.217Z] [INFO] page products {"pagina":43,"count":10}
+[2026-06-01T13:16:48.218Z] [INFO] scraping page {"catalogoId":"1437","pagina":44,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=44"}
+[2026-06-01T13:16:53.592Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:53.604Z] [INFO] page products {"pagina":44,"count":10}
+[2026-06-01T13:16:53.605Z] [INFO] scraping page {"catalogoId":"1437","pagina":45,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=45"}
+[2026-06-01T13:16:58.768Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:16:58.775Z] [INFO] page products {"pagina":45,"count":10}
+[2026-06-01T13:16:58.775Z] [INFO] scraping page {"catalogoId":"1437","pagina":46,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=46"}
+[2026-06-01T13:17:04.007Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:04.014Z] [INFO] page products {"pagina":46,"count":10}
+[2026-06-01T13:17:04.015Z] [INFO] scraping page {"catalogoId":"1437","pagina":47,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=47"}
+[2026-06-01T13:17:09.221Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:09.230Z] [INFO] page products {"pagina":47,"count":10}
+[2026-06-01T13:17:09.230Z] [INFO] scraping page {"catalogoId":"1437","pagina":48,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=48"}
+[2026-06-01T13:17:14.484Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:14.491Z] [INFO] page products {"pagina":48,"count":10}
+[2026-06-01T13:17:14.492Z] [INFO] scraping page {"catalogoId":"1437","pagina":49,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=49"}
+[2026-06-01T13:17:19.702Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:19.709Z] [INFO] page products {"pagina":49,"count":10}
+[2026-06-01T13:17:19.710Z] [INFO] scraping page {"catalogoId":"1437","pagina":50,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=50"}
+[2026-06-01T13:17:25.222Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:25.231Z] [INFO] page products {"pagina":50,"count":10}
+[2026-06-01T13:17:25.233Z] [INFO] scraping page {"catalogoId":"1437","pagina":51,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=51"}
+[2026-06-01T13:17:30.383Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:30.390Z] [INFO] page products {"pagina":51,"count":10}
+[2026-06-01T13:17:30.391Z] [INFO] scraping page {"catalogoId":"1437","pagina":52,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=52"}
+[2026-06-01T13:17:35.652Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:35.658Z] [INFO] page products {"pagina":52,"count":10}
+[2026-06-01T13:17:35.659Z] [INFO] scraping page {"catalogoId":"1437","pagina":53,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=53"}
+[2026-06-01T13:17:41.113Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:41.121Z] [INFO] page products {"pagina":53,"count":10}
+[2026-06-01T13:17:41.122Z] [INFO] scraping page {"catalogoId":"1437","pagina":54,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=54"}
+[2026-06-01T13:17:46.322Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:46.329Z] [INFO] page products {"pagina":54,"count":10}
+[2026-06-01T13:17:46.330Z] [INFO] scraping page {"catalogoId":"1437","pagina":55,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=55"}
+[2026-06-01T13:17:51.505Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:51.513Z] [INFO] page products {"pagina":55,"count":10}
+[2026-06-01T13:17:51.514Z] [INFO] scraping page {"catalogoId":"1437","pagina":56,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=56"}
+[2026-06-01T13:17:56.802Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:17:56.812Z] [INFO] page products {"pagina":56,"count":10}
+[2026-06-01T13:17:56.813Z] [INFO] scraping page {"catalogoId":"1437","pagina":57,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=57"}
+[2026-06-01T13:18:03.030Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:18:03.036Z] [INFO] page products {"pagina":57,"count":10}
+[2026-06-01T13:18:03.037Z] [INFO] scraping page {"catalogoId":"1437","pagina":58,"url":"https://sistema.zettabrasil.com.br/siggma/catalogos/200-3/id/1437?p=true&page=58"}
+[2026-06-01T13:18:08.548Z] [WARN] JSON not found — DOM fallback
+[2026-06-01T13:18:08.553Z] [INFO] page products {"pagina":58,"count":8}
+[2026-06-01T13:18:08.554Z] [INFO] reached last page {"pagina":58,"totalPages":58}
+[2026-06-01T13:18:08.555Z] [INFO] scrape complete {"catalogoId":"1437","unique":578,"pages":58}
+[2026-06-01T13:18:08.557Z] [INFO] products extracted {"id":"1437","count":578}
+[2026-06-01T13:18:08.563Z] [INFO] catalog saved {"file":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado\\1437.html"}
+[2026-06-01T13:18:08.755Z] [INFO] done {"output":"C:\\Users\\User\\Downloads\\zautomotiva-multicatalogo-final\\zautomotiva-multicatalogo-final\\catalogo-gerado","totalProducts":2233}
